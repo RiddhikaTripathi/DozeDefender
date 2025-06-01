@@ -1,4 +1,4 @@
-# Driver-Drowsiness-System
+# DozeDefender: Student Vigilance System
 # Problem Statement
 Feeling drowsy and tired during long drives at night is very common specially for transportation purposes, but did you know that it can be extremely dangerous? Driver drowsiness is a serious issue plaguing the transportation industry. The long hours on the road, coupled with the monotony of the job, can lead to fatigue and ultimately, accidents. According to recent statistics, driver drowsiness is responsible for a significant number of accidents on our highways, resulting in injuries and even fatalities.
 Problem Description:
